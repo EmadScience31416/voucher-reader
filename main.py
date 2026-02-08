@@ -69,7 +69,7 @@ def leer_voucher(ruta_pdf):
 
 # -------------------------------
 # Carpeta donde están los PDFs
-carpeta = "vouchers_pdf"
+carpeta = "vouchers"
 
 # Lista para guardar los datos de todos los vouchers
 datos = []

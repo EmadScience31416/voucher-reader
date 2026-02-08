@@ -1,6 +1,3 @@
-# Ruta archivos reales
-vouchers_pdf/
-
 # Entorno virtual
 .venv/
 env/
