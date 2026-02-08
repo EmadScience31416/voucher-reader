@@ -1,1 +1,27 @@
+# Ruta archivos reales
 vouchers_pdf/
+
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# PDFs / datos sensibles
+vouchers_pdf/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Tests / coverage
+.pytest_cache/
+.coverage
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
